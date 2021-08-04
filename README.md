@@ -27,6 +27,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mocks, fakes and stubs: the stunt doubles of testing](https://blog.sebastiano.dev/test-doubles-mocks-stubs-fakes/)
+- [So, JCenter is shutting down...](https://blog.sebastiano.dev/so-jcenter-is-shutting-down/)
+- [Better video and audio from home? Sure can do.](https://blog.sebastiano.dev/better-video-and-audio-sure-can-do/)
+- [Squanchy and Firestore rules  —  a security post-mortem](https://blog.sebastiano.dev/squanchy-and-firestore-rules-a-security-post-mortem/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
