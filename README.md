@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I like yellow and emojis a lot**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
