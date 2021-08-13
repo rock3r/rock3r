@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Stalla](https://stalla.dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rock3r/repositories](https://github.com/rock3r/repositories)
+- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/rock3r?tab=repositories)
 
 - 📝 I sporadically write articles on [https://blog.sebastiano.dev](https://blog.sebastiano.dev)
 
