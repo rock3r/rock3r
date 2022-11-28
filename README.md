@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **(Jetpack) Compose**
 
-- 🤌 I live code with @hamen on [Code With the Italians](https://codewiththeitalians.it)
+- 🤌 I live code with [@hamen](https://github.com/hamen) on [Code With the Italians](https://codewiththeitalians.it)
 
 - 🤝 I’m looking for help with [Stalla](https://stalla.dev)
 
