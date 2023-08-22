@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seb</h1>
 <h3 align="center">I code stuff and have fun doing it</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rock3r" alt="rock3r" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/seebrock3r" target="blank"><img src="https://img.shields.io/twitter/follow/seebrock3r?logo=twitter&style=for-the-badge" alt="seebrock3r" /></a> </p>
-
-- 🔭 I’m currently working on [Package Search](https://package-search.jetbrains.com)
-
-- 🌱 I’m currently learning **(Jetpack) Compose**
+- 🔭 I’m currently working on [Android Developer UX](https://d.android.com)
 
 - 🤌 I live code with [@hamen](https://github.com/hamen) on [Code With the Italians](https://codewiththeitalians.it)
-
-- 🤝 I’m looking for help with [Stalla](https://stalla.dev)
 
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/rock3r?tab=repositories)
 
@@ -35,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rock3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rock3r" height="30" width="40" /></a>
+<a href="https://androiddev.social/@seb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="Mastodon" height="30" width="40" /></a>
 <a href="https://twitter.com/seebrock3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seebrock3r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastianopoggi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastianopoggi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rock3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rock3r" height="30" width="40" /></a>
 <a href="https://medium.com/@seebrock3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seebrock3r" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codewiththeitalians" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewiththeitalians" height="30" width="40" /></a>
-<a href="/https://blog.sebastiano.dev/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sebastiano.dev/rss" height="30" width="40" /></a>
+<a href="https://blog.sebastiano.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sebastiano.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
